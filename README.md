@@ -1,5 +1,7 @@
-# Explaining Deep Learning models for Fact-Checking - How do different explanation presentation strategies of feature and data attribution techniques affect lay people understanding?
-*Author: Shivani Singh*
+# Explaining Deep Learning models for Fact-Checking 
+## How do different explanation presentation strategies of feature and data attribution techniques affect lay people understanding?
+*Shivani Singh*
+
 This repository contains the codebase for a Thesis Submitted to EEMCS Faculty Delft University of Technology, in Partial Fulfilment of the Requirements for the Bachelor of Computer Science and Engineering
 
 ### Structure
