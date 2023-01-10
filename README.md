@@ -6,7 +6,7 @@ This repository contains the codebase for a Thesis Submitted to EEMCS Faculty De
 
 ### Structure
 
-This repository contains three Jupyter Notebooks. Each of these contain the codebase for presenting the explanation methods as shown in this Figma template[]. Of course you are welcome to use this code for other purposes than creating Figma Prototypes.
+This repository contains three Jupyter Notebooks. Each of these contain the codebase for presenting the explanation methods as shown in this [Figma template](https://www.figma.com/community/file/1194688306111467424). Of course you are welcome to use this code for other purposes than creating [Figma Prototypes](https://www.figma.com/proto/PIntG4MgCfXVTJ3N0hEnIQ/BEP_shivi?node-id=79%3A2429&starting-point-node-id=79%3A2429).
 
 #### Requirements
 
