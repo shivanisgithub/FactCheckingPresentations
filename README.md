@@ -18,6 +18,8 @@ This repository contains three Jupyter Notebooks. Each of these contain the code
 
 - Instance attribution. In the notebook you can find an example of the kind of input data you need. In our case the data was retreived from (instert link to Evan's implementation). You can use your own implementation of k-nn of course, as long as the format of the input is the same.
 
+- Python 3.8. The notebooks have been used with this versions. There is no guarentee there will be no issues when other versions are used.
+
 
 ### Reproducing the Research
 
