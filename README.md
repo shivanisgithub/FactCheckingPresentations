@@ -16,7 +16,7 @@ This repository contains three Jupyter Notebooks. Each of these contain the code
 
 - LIME.  In order to run the juypter notebook on Feature attribution presentations, you require results from [LIME](https://github.com/marcotcr/lime), which is an implementation of the paper ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938). In the juypter notebook the required input is explained. Before using the notebook you need normalised results of running LIME on a claim. As long as the input format is the same, other feature attribution methods such as SHAP or Integreated gradients should work as well. We used the [Captum library for LIME](https://captum.ai/api/lime.html) and the implementation of (instert link to Annabel's implementation).
 
-- Instance attribution. In the notebook you can find an example of the kind of input data you need. In our case the data was retreived from (instert link to Evan's implementation). You can use your own implementation of k-nn of course, as long as the format of the input is the same.
+- Instance attribution. In the notebook you can find an example of the kind of input data you need. In our case the data was retreived from [this implementation](https://github.com/HatchIing/InstanceAttribution). You can use your own implementation of k-nn of course, as long as the format of the input is the same.
 
 - Python 3.8. The notebooks have been used with this versions. There is no guarentee there will be no issues when other versions are used.
 
