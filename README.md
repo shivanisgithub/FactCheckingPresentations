@@ -1,8 +1,8 @@
-# Explaining Deep Learning models for Fact-Checking 
+# Explaining XAI models for Fact-Checking 
 ## How do different explanation presentation strategies of feature and data attribution techniques affect non-expert understanding?
 *Shivani Singh*
 
-This repository contains the codebase for a Thesis Submitted to EEMCS Faculty Delft University of Technology, in Partial Fulfilment of the Requirements for the Bachelor of Computer Science and Engineering
+This repository contains the codebase for a Thesis Submitted to EEMCS Faculty Delft University of Technology, in Partial Fulfilment of the Requirements for the Bachelor of Computer Science and Engineering. It is part of the [Research Project CSE3000](https://github.com/TU-Delft-CSE/Research-Project) of [TU Delft CSE](https://github.com/TU-Delft-CSE) in Q2 of 2022/2023.
 
 ### Structure
 
